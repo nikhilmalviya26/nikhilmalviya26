@@ -20,9 +20,15 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake-dark.svg" width="97.7%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake.svg?v=2">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake-dark.svg?v=2" width="97.7%">
 </picture>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/nikhilmalviya26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://x.com/Nikhilmaviiya26"><img src="https://img.shields.io/badge/X-090716?style=for-the-badge&logo=x&logoColor=E9DFFF" alt="X (Twitter)"></a>&nbsp;&nbsp;
+<a href="mailto:officialnikhil2610@gmail.com"><img src="https://img.shields.io/badge/Gmail-090716?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 
 </div>
