@@ -32,6 +32,24 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=officialnikhil2610@gmail.com&su=Hello%20Nikhil"><img src="https://img.shields.io/badge/Gmail-090716?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </div>
 
+<h2>👨‍💻 About</h2>
+
+<p>
+I am a Computer Science and Engineering student and Software Engineer specializing in Java Backend Development, with an interest in designing, developing, and maintaining efficient, scalable, and reliable software applications.
+</p>
+
+<p>
+My technical background includes Java, Object-Oriented Programming (OOP), Data Structures and Algorithms, backend development, RESTful API design, and database management. I enjoy implementing backend logic, working with databases, and building structured solutions to real-world engineering problems.
+</p>
+
+<p>
+Alongside backend development, I work with modern web technologies, including JavaScript, React.js, HTML, CSS, and MySQL. I believe in writing clean, efficient, and maintainable code while continuously strengthening my problem-solving skills and software engineering practices.
+</p>
+
+<p>
+<strong>Open To:</strong> Full-Time Developer Roles · Internship Opportunities · Remote Developer Positions
+</p>
+
 
 ## 🛠️ Tech Stack
 
