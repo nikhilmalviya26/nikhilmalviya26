@@ -17,4 +17,12 @@
 <img align="top" src="https://github-readme-stats-six-rust-74.vercel.app/api?username=nikhilmalviya26&show_icons=true&hide_rank=true&card_width=500&bg_color=090716&title_color=A855F7&text_color=E9DFFF&icon_color=22D3EE&border_color=6426A8" alt="GitHub Stats" width="48.5%">
 <img align="top" src="https://github-readme-stats-six-rust-74.vercel.app/api/top-langs/?username=nikhilmalviya26&layout=donut&card_width=500&bg_color=090716&title_color=A855F7&text_color=E9DFFF&border_color=6426A8" alt="Top Languages" width="48.5%">
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake-dark.svg" width="97.7%">
+</picture>
+
 </div>
