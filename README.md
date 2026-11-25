@@ -25,12 +25,7 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake-dark.svg?v=2" width="97.7%">
 </picture>
 
-<br><br>
 
-<a href="https://www.linkedin.com/in/nikhilmalviya26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://x.com/Nikhilmaviiya26"><img src="https://img.shields.io/badge/X-090716?style=for-the-badge&logo=x&logoColor=E9DFFF" alt="X (Twitter)"></a>&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=officialnikhil2610@gmail.com&su=Hello%20Nikhil"><img src="https://img.shields.io/badge/Gmail-090716?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
-</div>
 
 <h2>👨‍💻 About</h2>
 
@@ -135,4 +130,45 @@ Alongside backend development, I work with modern web technologies, including Ja
 <img src="https://img.shields.io/badge/Internships-A855F7?style=for-the-badge&logoColor=white" alt="Internships"/>
 <img src="https://img.shields.io/badge/Remote%20Developer-0891B2?style=for-the-badge&logoColor=white" alt="Remote Developer"/>
 </p>
+
+
+
+
+<br><br>
+
+<hr style="border: 1px solid #6426A8;">
+
+<div align="center">
+
+  <h2>✦ Let's Connect</h2>
+
+  <p>
+    Feel free to reach out for collaborations, opportunities,
+    or just a conversation about technology.
+  </p>
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/nikhilmalviya26/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/Nikhilmaviiya26">
+    <img src="https://img.shields.io/badge/X-090716?style=for-the-badge&logo=x&logoColor=E9DFFF" alt="X">
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=officialnikhil2610@gmail.com&su=Hello%20Nikhil">
+    <img src="https://img.shields.io/badge/Gmail-090716?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
+  </a>
+
+  <br><br>
+
+  <p>
+    <sub>© 2026 Nikhil Malviya · Built with passion for technology</sub>
+  </p>
+
+</div>
+
 
