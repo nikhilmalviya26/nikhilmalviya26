@@ -29,6 +29,5 @@
 
 <a href="https://www.linkedin.com/in/nikhilmalviya26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://x.com/Nikhilmaviiya26"><img src="https://img.shields.io/badge/X-090716?style=for-the-badge&logo=x&logoColor=E9DFFF" alt="X (Twitter)"></a>&nbsp;&nbsp;
-<a href="mailto:officialnikhil2610@gmail.com"><img src="https://img.shields.io/badge/Gmail-090716?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=officialnikhil2610@gmail.com&su=Hello%20Nikhil"><img src="https://img.shields.io/badge/Gmail-090716?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </div>
