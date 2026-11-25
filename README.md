@@ -68,3 +68,19 @@ Alongside backend development, I work with modern web technologies, including Ja
 **Tools & Deployment**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,idea,vscode,postman&theme=dark" alt="Tools and Deployment" />
+
+
+
+
+<br><br>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilmalviya26&bg_color=090716&color=E9DFFF&line=A855F7&point=22D3EE&area_color=6426A8&area=true&title_color=A855F7&border_color=6426A8&custom_title=My%20Contribution%20Activity&height=300&radius=8"
+    alt="Nikhil's GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</div>
+
