@@ -31,3 +31,22 @@
 <a href="https://x.com/Nikhilmaviiya26"><img src="https://img.shields.io/badge/X-090716?style=for-the-badge&logo=x&logoColor=E9DFFF" alt="X (Twitter)"></a>&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=officialnikhil2610@gmail.com&su=Hello%20Nikhil"><img src="https://img.shields.io/badge/Gmail-090716?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </div>
+
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,cpp&theme=dark" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb&theme=dark" alt="Backend and Databases" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,idea,vscode,postman&theme=dark" alt="Tools and Deployment" />
