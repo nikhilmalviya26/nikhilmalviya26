@@ -24,7 +24,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake.svg?v=2">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/nikhilmalviya26/nikhilmalviya26/output/github-snake-dark.svg?v=2" width="97.7%">
 </picture>
-
+</div>
 
 
 <h2>👨‍💻 About</h2>
