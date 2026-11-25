@@ -96,37 +96,26 @@ Alongside backend development, I work with modern web technologies, including Ja
 ---
 
 
+
 <h2>⚡ Technical Expertise</h2>
 
 <strong>Java</strong>
-<p>
-  <img src="https://img.shields.io/badge/████████████████████-6426A8?style=flat&logoColor=white" alt="Java skill bar"/>
-</p>
+<p>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟦</p>
 
 <strong>Object-Oriented Programming (OOP)</strong>
-<p>
-  <img src="https://img.shields.io/badge/████████████████████-A855F7?style=flat" alt="OOP skill bar"/>
-</p>
+<p>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟦</p>
 
 <strong>Data Structures & Algorithms</strong>
-<p>
-  <img src="https://img.shields.io/badge/██████████████-A855F7?style=flat" alt="DSA skill bar"/>
-</p>
+<p>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛⬛</p>
 
 <strong>JavaScript</strong>
-<p>
-  <img src="https://img.shields.io/badge/███████████████-A855F7?style=flat" alt="JavaScript skill bar"/>
-</p>
+<p>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛</p>
 
 <strong>React.js</strong>
-<p>
-  <img src="https://img.shields.io/badge/██████████████-6426A8?style=flat" alt="React skill bar"/>
-</p>
+<p>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛⬛</p>
 
 <strong>MySQL</strong>
-<p>
-  <img src="https://img.shields.io/badge/███████████████-A855F7?style=flat" alt="MySQL skill bar"/>
-</p>
+<p>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛</p>
 
 
 <br><br>
