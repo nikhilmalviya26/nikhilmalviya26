@@ -46,41 +46,93 @@ My technical background includes Java, Object-Oriented Programming (OOP), Data S
 Alongside backend development, I work with modern web technologies, including JavaScript, React.js, HTML, CSS, and MySQL. I believe in writing clean, efficient, and maintainable code while continuously strengthening my problem-solving skills and software engineering practices.
 </p>
 
+---
+
+<h2>🎓 Education</h2>
+
+<h3>B.Tech — Computer Science & Engineering</h3>
+
+<p>Sagar Institute of Research & Technology (SIRT), Bhopal</p>
+
 <p>
-<strong>Open To:</strong> Full-Time Developer Roles · Internship Opportunities · Remote Developer Positions
+<strong>CGPA:</strong> 7.36 &nbsp; | &nbsp; <strong>Duration:</strong> 2023 – 2027
 </p>
 
+---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-**Languages**
+<strong>Languages</strong>
 
-<img src="https://skillicons.dev/icons?i=java,js,cpp&theme=dark" alt="Languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,cpp&theme=dark" alt="Languages"/>
+</p>
 
-**Frontend**
+<strong>Frontend</strong>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" alt="Frontend" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" alt="Frontend"/>
+</p>
 
-**Backend & Databases**
+<strong>Backend & Databases</strong>
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb&theme=dark" alt="Backend and Databases" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb&theme=dark" alt="Backend and Databases"/>
+</p>
 
-**Tools & Deployment**
+<strong>Tools & Deployment</strong>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,idea,vscode,postman&theme=dark" alt="Tools and Deployment" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,idea,vscode,postman&theme=dark" alt="Tools and Deployment"/>
+</p>
 
-
-
-
-<br><br>
+---
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilmalviya26&bg_color=090716&color=E9DFFF&line=A855F7&point=22D3EE&area_color=6426A8&area=true&title_color=A855F7&border_color=6426A8&custom_title=My%20Contribution%20Activity&height=300&radius=8"
-    alt="Nikhil's GitHub Contribution Activity Graph"
+    alt="Contribution Activity"
     width="100%"
   />
 </div>
+
+---
+
+<h2>⚡ Technical Expertise</h2>
+
+<strong>Java</strong>
+
+<p>████████████████████</p>
+
+<strong>Object-Oriented Programming (OOP)</strong>
+
+<p>████████████████████</p>
+
+<strong>Data Structures & Algorithms</strong>
+
+<p>██████████████</p>
+
+<strong>JavaScript</strong>
+
+<p>███████████████</p>
+
+<strong>React.js</strong>
+
+<p>██████████████</p>
+
+<strong>MySQL</strong>
+
+<p>███████████████</p>
+
+---
+
+<h2>✦ Open To</h2>
+
+<p>
+<img src="https://img.shields.io/badge/Full--Time%20Developer-6426A8?style=for-the-badge&logoColor=white" alt="Full-Time Developer"/>
+<img src="https://img.shields.io/badge/Internships-A855F7?style=for-the-badge&logoColor=white" alt="Internships"/>
+<img src="https://img.shields.io/badge/Remote%20Developer-0891B2?style=for-the-badge&logoColor=white" alt="Remote Developer"/>
+</p>
 
