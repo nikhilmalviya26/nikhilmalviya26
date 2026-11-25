@@ -95,43 +95,38 @@ Alongside backend development, I work with modern web technologies, including Ja
 
 ---
 
+
 <h2>⚡ Technical Expertise</h2>
 
 <strong>Java</strong>
-
-<p>████████████████████</p>
-
-<strong>Object-Oriented Programming (OOP)</strong>
-
-<p>████████████████████</p>
-
-<strong>Data Structures & Algorithms</strong>
-
-<p>██████████████</p>
-
-<strong>JavaScript</strong>
-
-<p>███████████████</p>
-
-<strong>React.js</strong>
-
-<p>██████████████</p>
-
-<strong>MySQL</strong>
-
-<p>███████████████</p>
-
----
-
-<h2>✦ Open To</h2>
-
 <p>
-<img src="https://img.shields.io/badge/Full--Time%20Developer-6426A8?style=for-the-badge&logoColor=white" alt="Full-Time Developer"/>
-<img src="https://img.shields.io/badge/Internships-A855F7?style=for-the-badge&logoColor=white" alt="Internships"/>
-<img src="https://img.shields.io/badge/Remote%20Developer-0891B2?style=for-the-badge&logoColor=white" alt="Remote Developer"/>
+  <img src="https://img.shields.io/badge/████████████████████-6426A8?style=flat&logoColor=white" alt="Java skill bar"/>
 </p>
 
+<strong>Object-Oriented Programming (OOP)</strong>
+<p>
+  <img src="https://img.shields.io/badge/████████████████████-A855F7?style=flat" alt="OOP skill bar"/>
+</p>
 
+<strong>Data Structures & Algorithms</strong>
+<p>
+  <img src="https://img.shields.io/badge/██████████████-A855F7?style=flat" alt="DSA skill bar"/>
+</p>
+
+<strong>JavaScript</strong>
+<p>
+  <img src="https://img.shields.io/badge/███████████████-A855F7?style=flat" alt="JavaScript skill bar"/>
+</p>
+
+<strong>React.js</strong>
+<p>
+  <img src="https://img.shields.io/badge/██████████████-6426A8?style=flat" alt="React skill bar"/>
+</p>
+
+<strong>MySQL</strong>
+<p>
+  <img src="https://img.shields.io/badge/███████████████-A855F7?style=flat" alt="MySQL skill bar"/>
+</p>
 
 
 <br><br>
